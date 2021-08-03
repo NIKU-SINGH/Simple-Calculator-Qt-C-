@@ -2,3 +2,4 @@
 Simple Calculator build with C++ and QT
 
 ![calculator](preview.png)
+![calculator Video](calc.gif)
